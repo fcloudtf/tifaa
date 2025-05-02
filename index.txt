@@ -1,25 +1,25 @@
-{ "urls": [{ "url": "https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/api.json", "name": "饭太硬" },
+{ "urls": [{ "url": "https://git.fcloudtf.dpdns.org/https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/api.json", "name": "饭太硬" },
 
-{ "url": "https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E5%B0%8F%E7%B1%B3/api.json", "name": "小米" },
+{ "url": "https://git.fcloudtf.dpdns.org/https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E5%B0%8F%E7%B1%B3/api.json", "name": "小米" },
 
-{ "url": "https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E8%82%A5%E7%8C%AB/api.json", "name": "肥猫" },
+{ "url": "https://git.fcloudtf.dpdns.org/https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E8%82%A5%E7%8C%AB/api.json", "name": "肥猫" },
 
-{ "url": "https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E7%8E%8B%E4%BA%8C%E5%B0%8F/api.json", "name": "王二小" },
+{ "url": "https://git.fcloudtf.dpdns.org/https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E7%8E%8B%E4%BA%8C%E5%B0%8F/api.json", "name": "王二小" },
 
-{ "url": "https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E6%BD%87%E6%B4%92/api.json", "name": "潇洒" },
+{ "url": "https://git.fcloudtf.dpdns.org/https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E6%BD%87%E6%B4%92/api.json", "name": "潇洒" },
 
-{ "url": "https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E6%91%B8%E9%B1%BC%E5%84%BF/api.json", "name": "摸鱼儿" },
+{ "url": "https://git.fcloudtf.dpdns.org/https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E6%91%B8%E9%B1%BC%E5%84%BF/api.json", "name": "摸鱼儿" },
 
-{ "url": "https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E6%AC%A7%E6%AD%8C/api.json", "name": "欧歌" },
+{ "url": "https://git.fcloudtf.dpdns.org/https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E6%AC%A7%E6%AD%8C/api.json", "name": "欧歌" },
 
-{ "url": "https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E5%A4%A9%E5%BE%AE/api.json", "name": "天微" },
+{ "url": "https://git.fcloudtf.dpdns.org/https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E5%A4%A9%E5%BE%AE/api.json", "name": "天微" },
 
-{ "url": "https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/api.json", "name": "天天开心" },
+{ "url": "https://git.fcloudtf.dpdns.org/https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/api.json", "name": "天天开心" },
 
-{ "url": "https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E5%8D%97%E9%A3%8E/api.json", "name": "南风" },
+{ "url": "https://git.fcloudtf.dpdns.org/https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E5%8D%97%E9%A3%8E/api.json", "name": "南风" },
 
-{ "url": "https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E9%A6%99%E9%9B%85%E6%83%85/api.json", "name": "香雅情" },
+{ "url": "https://git.fcloudtf.dpdns.org/https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E9%A6%99%E9%9B%85%E6%83%85/api.json", "name": "香雅情" },
 
-{ "url": "https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E6%88%8F%E6%9B%B2%E9%9F%B3%E4%B9%90/api.json", "name": "戏曲音乐" },
+{ "url": "https://git.fcloudtf.dpdns.org/https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E6%88%8F%E6%9B%B2%E9%9F%B3%E4%B9%90/api.json", "name": "戏曲音乐" },
 
-{ "url": "https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/api.json", "name": "少儿频道" }]}
+{ "url": "https://git.fcloudtf.dpdns.org/https://raw.githubusercontent.com/fcloudtf/tifaa/refs/heads/main/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/api.json", "name": "少儿频道" }]}
